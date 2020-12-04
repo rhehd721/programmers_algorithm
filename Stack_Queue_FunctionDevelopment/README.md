@@ -1,8 +1,3 @@
-## 문제를 통해 알게된 개념
-deque는 스택과 큐를 합친 자료구조이다.
-
----
-
 ## Best 우수풀의
 ``` python
 def solution(progresses, speeds):
