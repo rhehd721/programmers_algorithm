@@ -8,7 +8,6 @@ def solution(people, limit):
 
     ExitNum = 0
 
-
     people.sort(reverse=1)  
 
     while(PointStrat <= PointEnd):
